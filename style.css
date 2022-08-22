@@ -8,3 +8,7 @@ body{
 .orange-color span{ 
     color: orange;
 }
+.test{
+    box-shadow: -16px red;
+    border: 3px solid green;
+}
