@@ -5,10 +5,11 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.orange-color span{ 
-    color: orange;
+.header{
+    background-color: grey;
+    padding: 0 30px;
 }
-.test{
-    box-shadow: -16px red;
-    border: 3px solid green;
+.header h1{
+    color: tomato;
+    font-size: 40px;
 }
