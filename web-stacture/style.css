@@ -21,10 +21,13 @@ body{
 .nav-menu{
     background-color: rgb(102, 102, 210);
 }
+.nav-menu ul{
+    text-align: center;
+}
 .nav-menu ul li{
     list-style-type: none;
     padding: 10px;
-    text-align: center;
+    /* display: inline-block; */
 }
 .nav-menu ul li a{
     text-decoration: none;
