@@ -5,9 +5,14 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.container{
+    margin: auto;
+    width: 1000px;
+}
 .header{
     background-color: grey;
     padding: 0 30px;
+    border: 2px dotted red;
 }
 .header h1{
     color: tomato;
