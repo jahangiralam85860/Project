@@ -10,7 +10,7 @@ body{
     width: 1000px;
 }
 .header{
-    background-color: grey;
+    margin-top: 20px;
     padding: 0 30px;
     border: 2px dotted red;
 }
@@ -18,11 +18,12 @@ body{
     color: rgb(64, 39, 35);
     font-size: 20px;
     height: 50px;
+    margin-top: 13px;
 }
 .nav-menu{
+    margin-top: 10px;
     height: 50px;
     border: 2px solid green;
-    background-color: rgb(102, 102, 210);
 }
 .nav-menu ul{
     text-align: center;
